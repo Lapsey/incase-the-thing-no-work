@@ -6,6 +6,29 @@
 * These snippets include 
     * FOR NEXT loop generation
     * DO LOOP generation
+    * File template
+    * PULSOUT command
+    * PAUSE command
+    * HIGH command
+    * LOW command
+    * Word Variable
+    * Byte Variable 
+    * Bit Variable
+
+## Version [1.0.2]
+* Added many snippets such as:
+    * File template
+    * PULSOUT command
+    * PAUSE command
+    * HIGH command
+    * LOW command
+    * Word Variable
+    * Byte Variable 
+    * Bit Variable
+
+## Version [1.0.1]
+* Fixed
+    * Snippets not showing in vscode
 
 ## Version [1.0.0]
 * Initial Version with:

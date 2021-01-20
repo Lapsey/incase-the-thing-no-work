@@ -43,6 +43,14 @@
 		"description": "Adds PULSOUT command"
 	},
 
+	"PAUSE_command_template": {
+		"prefix": "pause",
+		"body": [
+			"PAUSE time"
+		],
+		"description": "Adds PAUSE commmand"
+	}
+
 	"HIGH_command_template": {
 		"prefix": "high",
 		"body": [

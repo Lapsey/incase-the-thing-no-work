@@ -3,7 +3,7 @@
 	"displayName": "bs2-snippets",
 	"description": "Adds code snippets for the bs2 language",
 	"publisher": "DruneRugland",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"engines": {
 		"vscode": "^1.52.0"
 	},
@@ -13,14 +13,14 @@
 	"contributes": {
 		"snippets": [
 			{
-				"language": "bs2",
+				"language": "pbasic",
 				"path": "./snippets/snippets.code-snippets"
 			}
 		]
 	},
 	"__metadata": {
 		"id": "46123163-5c74-4982-ad29-94a9c4f45cab",
-		"publisherDisplayName": "Drune Rugland",
-		"publisherId": "ae7c1e2a-b6bc-43e5-8bfc-6084dc99eedd"
+		"publisherId": "ae7c1e2a-b6bc-43e5-8bfc-6084dc99eedd",
+		"publisherDisplayName": "Drune Rugland"
 	}
 }
